@@ -107,7 +107,7 @@ sections:
   - question: Et si j’ai besoin d’aide ?
     answer: Un support client de premier ordre est la clé d’un produit de qualité,
       c’est pourquoi nous ferons de notre mieux pour résoudre tous les problèmes que
-      vous rencontrerez via notre [outil de support](https://amazon-link-checker.com/fr/accueil/#bsd-contact-form).
+      vous rencontrerez via notre outil de support.
 - type: ctablock
   template: ctablock
   section_id: call-to-action
