@@ -104,7 +104,7 @@ sections:
       * Domaines illimités
       * 60,000 liens Amazon
       * Support 24/7
-    highlight: true
+    highlight: false
     actions:
     - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
