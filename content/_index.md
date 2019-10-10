@@ -76,34 +76,38 @@ sections:
   type: faqblock
   section_id: faq
   title: FAQ
-  subtitle: Frequently Asked Questions
+  subtitle: Questions fréquentes
   faqitems:
-  - question: What plan should I choose?
-    answer: It depends on the number of websites you manage and the number of Amazon
-      affiliate links you need to check. Let’s say you are promoting 100 Amazon products
-      on your website, and you want to check them every 3 days. The Personal plan
-      will be just fine!
-  - question: How often are my links checked?
-    answer: There is no automatic links' scans and checks as we don’t want to use
-      your link quota unnecessarily. Scans could be launched manually, clicking on
-      the “New Scan” button on the top right of your dashboard.
-  - question: What is a “link”?
-    answer: In our pricing plan, a “link” refers to a unique Amazon product link.
-      If you have identical links for the same product on multiple page, we will deduct
-      only one link from your link quota.
-  - question: Is there any requirements to use the service?
-    answer: Yes! In order to use our tool, you will be required to provide your official
-      Amazon Product Advertising API Key. Please check in your Amazon Affiliate Account
-      to ensure that you are able to create API keys, before you buy any ClickClickBankBank
-      Plan.
-  - question: What is your refund/cancellation policy?
-    answer: Refund are for available for 7 days after signup, or anytime if you did
-      not start any scan in your account. Note that you can change or cancel your
-      plan at any moment within your Plan & Billing section.
-  - question: Do you offer support if I need help?
-    answer: Yes! Top-notch customer support is key for a quality product, so we’ll
-      do our very best to resolve any issues you encounter communicating via our Support
-      Platform.
+  - question: Quel forfait dois-je choisir ?
+    answer: Cela dépend du nombre de sites et du nombre de liens que vous avez besoin
+      de scanner. Par exemple un site de 10 pages avec 10 liens Amazon sur chaque
+      page à vérifier tous les 7 jours vous « coûtera » seulement 400 liens par mois,
+      donc le plan Perso suffira largement.
+  - question: À quelle fréquence les liens seront vérifiés ?
+    answer: 'Comme dirait [Chevallier & Laspalès](https://www.youtube.com/watch?v=ZyBF9gCHl2Y)
+      : « C’est vous qui voyez ! ». Nous ne voulons pas vous forcer à scanner vos
+      liens tous les 2, 7, ou 15 jours si vous ne le souhaitez pas, juste pour utiliser
+      vos crédits. Le lancement d’un scan se fait manuellement, et les résultats disponibles
+      en quelques minutes seulement.'
+  - question: Qu’est-ce qu’un « lien » ?
+    answer: Par rapport aux différents plans tarifaires ci-dessus, un lien correspond
+      à un lien unique qui est vérifié avec une langue de boutique Amazon. Cela veut
+      dire que si nous trouvons le même lien plusieurs fois (sur une ou plusieurs
+      pages), votre lien n’est décompté qu’une seule fois !
+  - question: Est-ce qu’il y a des pré-requis ?
+    answer: Afin d’utiliser notre outil, il est impératif que vous ayez déjà accès
+      à l’API officielle Amazon Product Advertising. Veuillez vérifier dans votre
+      compte Amazon Affiliate pour vous assurer que vous êtes en mesure de créer des
+      clés API avant d’acheter l’outil.
+  - question: Quelle est votre politique de retour/annulation ?
+    answer: "Nous accepterons votre demande de remboursement pendant les 7 premiers
+      jours suite à la création de votre compte ou si vous n’avez pas commencé à scanner
+      un domaine.  \nVous pouvez modifier ou annuler votre plan à tout moment dans
+      votre tableau de bord."
+  - question: Et si j’ai besoin d’aide ?
+    answer: Un support client de premier ordre est la clé d’un produit de qualité,
+      c’est pourquoi nous ferons de notre mieux pour résoudre tous les problèmes que
+      vous rencontrerez via notre [outil de support](https://amazon-link-checker.com/fr/accueil/#bsd-contact-form).
 - type: ctablock
   template: ctablock
   section_id: call-to-action
