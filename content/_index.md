@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 sections:
 - type: heroblock
   template: heroblock
@@ -120,7 +120,6 @@ sections:
 layout: home
 menu:
   main:
-    name: Accueil
     weight: 1
 
 ---
