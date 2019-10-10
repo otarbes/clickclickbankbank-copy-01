@@ -4,39 +4,39 @@ sections:
 - type: pricingblock
   template: pricingblock
   section_id: pricing
-  title: Pricing Plans
+  title: Choisissez votre forfait
   component: pricing_block.html
-  subtitle: You can have a separate pricing page or list everything on the home page.
+  subtitle: Garantie satisfait ou remboursé de 7 jours
   bg: gray
   pricingplans:
-  - title: Personal
+  - title: Perso
     price: "$5/mo"
     details: |-
-      * Unlimited Domains
-      * 5,000 Amazon Links
-      * 24-7 Monitoring & Support
+      * Domaines illimités
+      * 5,000 liens Amazon
+      * Support 24/7
     actions:
-    - label: Buy Now
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
     highlight: false
   - title: Plus
     price: "$15/mo"
     details: |-
-      * Unlimited Domains
-      * 20,000 Amazon Links
-      * 24-7 Monitoring & Support
+      * Domaines illimités
+      * 20,000 liens Amazon
+      * Support 24/7
     highlight: true
     actions:
-    - label: Buy Now
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
   - title: Pro
     price: "$25/mo"
     details: |-
-      * Unlimited Domains
-      * 60,000 Amazon Links
-      * 24-7 Monitoring & Support
+      * Domaines illimités
+      * 60,000 liens Amazon
+      * Support 24/7
     actions:
-    - label: Buy Now
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
     highlight: false
 - type: faqblock
