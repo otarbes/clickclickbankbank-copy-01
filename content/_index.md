@@ -111,11 +111,11 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Ready To Make More Revenue?
+  title: Prêt à faire plus de commissions ?
   component: cta_block.html
-  subtitle: 7 days money-back guarantee
+  subtitle: Garantie satisfait ou remboursé pendant 7 jours
   actions:
-  - label: Sign Up
+  - label: OUI !
     url: https://app.clickclickbankbank.com/sign-up
 layout: home
 menu:
