@@ -61,7 +61,7 @@ sections:
     content: ClickClickBankBank est un vrai gain de temps pour nous. Plutôt que d'avoir
       une personne dédiée pour vérifier tous les liens chaque semaine, maintenant
       tout est automatique !
-  - author: David Harris
+  - author: David Harris - thepetsmaster.com
     avatar: "/images/david_harris.jpg"
     content: Cet outil est un must-have si vous voulez optimiser vos revenus Amazon.
       J'avais 24% de produits en rupture de stock avant de l'utiliser !
