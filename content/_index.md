@@ -70,6 +70,44 @@ sections:
     content: 'Le scan se fait super rapidement, généralement en moins de 5 minutes.
       J''ai pu augmenter mon taux de conversion Amazon de 34% suite à la mise à jour
       de mes liens morts ! '
+- template: pricingblock
+  component: pricing_block.html
+  bg: gray
+  type: pricingblock
+  section_id: pricing
+  title: Choisissez votre forfait
+  subtitle: Garantie satisfait ou remboursé de 7 jours
+  pricingplans:
+  - title: Perso
+    price: "$5/mo"
+    details: |-
+      * Domaines illimités
+      * 5,000 liens Amazon
+      * Support 24/7
+    highlight: false
+    actions:
+    - label: Démarrer
+      url: https://app.clickclickbankbank.com/sign-up
+  - title: Plus
+    price: "$15/mo"
+    details: |-
+      * Domaines illimités
+      * 20,000 liens Amazon
+      * Support 24/7
+    highlight: true
+    actions:
+    - url: https://app.clickclickbankbank.com/sign-up
+      label: Démarrer
+  - title: Pro
+    price: "$25/mo"
+    details: |-
+      * Domaines illimités
+      * 60,000 liens Amazon
+      * Support 24/7
+    highlight: true
+    actions:
+    - label: Démarrer
+      url: https://app.clickclickbankbank.com/sign-up
 - template: faqblock
   component: faq_block.html
   bg: gray
