@@ -4,6 +4,7 @@ layout = "page"
 subtitle = "The text shown below the page title."
 title = "Affiliate Program"
 [menu.main]
+name = "Programme affiliés"
 weight = 4
 [menu.secondary]
 weight = 1

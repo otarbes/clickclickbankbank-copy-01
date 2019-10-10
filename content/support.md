@@ -4,6 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Help & Support"
 [menu.main]
+name = "Aide & Support"
 weight = 3
 
 +++

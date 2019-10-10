@@ -76,6 +76,7 @@ sections:
 layout: pricing
 menu:
   main:
+    name: Tarifs
     weight: 2
 
 ---

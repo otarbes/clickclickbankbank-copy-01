@@ -110,6 +110,7 @@ sections:
 layout: home
 menu:
   main:
+    name: Accueil
     weight: 1
 
 ---
