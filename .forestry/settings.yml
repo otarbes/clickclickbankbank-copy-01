@@ -5,15 +5,15 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5d9e7aa5a88a180019e055bd/webhook/forestry
 sections:
 - type: heading
-  label: Content
+  label: Contenus
 - type: document
   path: content/_index.md
-  label: Home
+  label: Accueil
   templates:
   - home
 - type: document
   path: content/pricing.md
-  label: Pricing
+  label: Tarifs
   templates:
   - pricing
 - type: directory
@@ -26,7 +26,7 @@ sections:
   - page
 - type: document
   path: data/social.json
-  label: Social Links
+  label: Links Sociaux
   templates:
   - social
 - type: heading
@@ -38,7 +38,7 @@ sections:
   - contact
 - type: document
   path: content/features.md
-  label: Features
+  label: Fonctionalités
   templates:
   - features
 - type: document
