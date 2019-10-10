@@ -4,13 +4,14 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Monitor all your Amazon Affiliate Links in one place
+  title: Scannez et vérifiez tous vos produits Amazon affiliés en un seul endroit
   component: hero_block.html
-  content: A lightweight tool that scan your websites to track all your Amazon product's
-    links and helps you generate more revenue.
+  content: ClickClickBankBank est un outil léger qui va vous permettre de scanner
+    vos sites d’affiliation Amazon et de vérifier si les produits listés sont encore
+    disponibles ou en rupture de stock.
   image: "/images/Hero-screen.png"
   actions:
-  - label: Try now
+  - label: Démarrer
     url: https://app.clickclickbankbank.com/sign-up
 - type: featuresblock
   template: featuresblock
