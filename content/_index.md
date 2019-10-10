@@ -51,16 +51,16 @@ sections:
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
-  title: Testimonials
+  title: Avis clients
   component: reviews_block.html
-  subtitle: ''
+  subtitle: Ce qu'ils en disent...
   bg: white
   reviews:
   - author: Guillaume Lécuyer - achetezlemeilleur.com
     avatar: "/images/Guillaume Lecuyer.jpg"
-    content: ClickClickBankBank is amazing. It saved us a ton of time checking all
-      our pages and our links to make sure our products were still available or relevant.
-      We couldn't live without it.
+    content: ClickClickBankBank est un vrai gain de temps pour nous. Plutôt que d'avoir
+      une personne dédiée pour vérifier tous les liens chaque semaine, maintenant
+      tout est automatique !
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
