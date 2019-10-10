@@ -65,10 +65,11 @@ sections:
     avatar: "/images/david_harris.jpg"
     content: Cet outil est un must-have si vous voulez optimiser vos revenus Amazon.
       J'avais 24% de produits en rupture de stock avant de l'utiliser !
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: David Shaw - fitnessselect.net
+    avatar: "/images/david_shaw.jpg"
+    content: 'Le scan se fait super rapidement, généralement en moins de 5 minutes.
+      J''ai pu augmenter mon taux de conversion Amazon de 34% suite à la mise à jour
+      de mes liens morts ! '
 - template: faqblock
   component: faq_block.html
   bg: gray
