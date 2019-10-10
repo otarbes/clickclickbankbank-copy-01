@@ -24,6 +24,8 @@ fields:
   config:
     required: true
 pages:
+- content/support.md
+- content/affiliate-program.md
+- content/terms-of-use.md
+- content/privacy-cookie-policy.md
 - content/style-guide.md
-- content/signup.md
-- content/about.md
