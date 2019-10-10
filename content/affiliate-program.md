@@ -1,8 +1,8 @@
 +++
 img_path = ""
 layout = "page"
-subtitle = "The text shown below the page title."
-title = "Affiliate Program"
+subtitle = "Recommandez ClickClickBankBank à votre audience et gagnez 30% de commission récurrente pour chaque nouveau client référé!"
+title = "Programme d’Affiliation"
 [menu.main]
 name = "Programme affiliés"
 weight = 4
@@ -10,6 +10,12 @@ weight = 4
 weight = 1
 
 +++
-Lorem ipsum dolor sit amet, cu eum fugit fierent repudiandae, no sed vide utinam. Nam id sale natum, magna salutatus per cu. Quaestio efficiantur vel id, tamquam appetere deseruisse cum ea. Nam consetetur consequuntur eu, et prima postea graeci vis. Eros labores sadipscing mei at, ex possit incorrupte mea.
+### Vos bénéfices Affilié
 
-Pro et habeo etiam possim. Usu fugit conceptam ei, ea magna aeque torquatos cum, et tota efficiendi sit. Blandit definitiones duo ut, per an dolores democritum, doctus adolescens usu ad. Posidonium dissentias sit et, mel ei quem mazim constituto. Sea noluisse placerat ponderum an, quaeque accusata ullamcorper pro ei. Atqui nonumes vituperatoribus in pro.
+* Gagnez une commission de 30% sur chaque nouveau client que vous parrainez, chaque mois jusqu’à l’annulation.
+* Accès aux derniers chiffres, tels que : Visiteurs référés, clients, votre taux de conversion, vos campagnes ou vos paiements.
+* 90 jours de durée de cookie pour augmenter les chances de commissions
+* Les paiements sont disponibles après avoir passé le montant minimum de 50$ en commission.
+* Réception des paiements via PayPal
+
+[**Inscription**](http://affiliates.clickclickbankbank.com)
