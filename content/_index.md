@@ -61,11 +61,10 @@ sections:
     content: ClickClickBankBank est un vrai gain de temps pour nous. Plutôt que d'avoir
       une personne dédiée pour vérifier tous les liens chaque semaine, maintenant
       tout est automatique !
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: David Harris
+    avatar: "/images/david_harris.jpg"
+    content: Cet outil est un must-have si vous voulez optimiser vos revenus Amazon.
+      J'avais 24% de produits en rupture de stock avant de l'utiliser !
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
