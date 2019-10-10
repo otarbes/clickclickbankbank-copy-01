@@ -12,7 +12,7 @@ weight = 3
 
 Here you can find a roundup of the most asked questions by users and the corresponding answers. We grouped the questions and answers in order to make it more comfortable to find the right one. Of course we are going to update this collection regularly.
 
-[Go to the FAQs](#)
+[Go to the FAQs](/faq)
 
 ### Support Ticket
 
@@ -20,4 +20,4 @@ Before opening a support ticket please be so kind and go through our FAQs which 
 
 In case your issue couldn't be solved after this, feel free to contact us and we're going to find a solution for you!
 
-[Create a support ticket](#)
+Just click on the green '?' on the bottom right of the screen and create your ticket.
