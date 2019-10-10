@@ -16,29 +16,34 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: Stop losing your commissions today
+  title: Arrêtez de perdre des commissions dès maintenant !
   component: features_block.html
-  subtitle: Never promote another unavailable Amazon product again.
+  subtitle: En moyenne, les sites d’affiliation Amazon possèdent 10 à 15% de produits
+    non disponibles.
   bg: gray
   featureslist:
-  - title: Automatic Website Links Scanner
-    content: Automatically scan your entire site and find every Amazon product you
-      are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
+  - title: Scan automatique
+    content: ClickClickBankBank va automatiquement scanner votre site au complet et
+      trouver tous vos liens d’affiliation Amazon. Vous utilisez un plugin de cloaking
+      de liens comme AAWP, EasyAzon ou autre ? Aucun problème !
     image: "/images/illustr-1_height.png"
     actions:
-    - label: Sign Up
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Reliable Data from Amazon API
-    content: Unlike other tools, ClickClickBankBank checks automatically every product
-      status based on the Amazon Product Advertising API. Wether the product is unavailable
-      or out of stock, you will be the first to know.
+  - title: Données fiables
+    content: Contraitement à la majorité des autres outils, ClickClickBankBank utilise
+      le Product Advertising API d’Amazon pour récupérer les informations sur les
+      produits dont vous faites la promotion. Si un de vos produits n’est plus disponible
+      ou en rupture de stock, vous serez le premier informé.
     image: "/images/illustr-2_height.png"
     actions:
-    - label: Sign Up
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Simple Dashboard, Deep Insights
-    content: We keep dashboard design simple and most efficient, so you can quickly
-      control your site health.
+  - title: Rapports simples et complets
+    content: Plutôt que de vous noyer sous une multitude de rapports, nous avons pris
+      le parti de ne vous montrer que les informations essentielles afin d’optimiser
+      au plus vite votre site d’affiliation. Mais si vous souhaitez creuser en détail
+      les rapports, c’est possible aussi.
     image: "/images/illustr-3_height.png"
     actions:
     - label: Sign Up
