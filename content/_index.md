@@ -46,7 +46,7 @@ sections:
       les rapports, c’est possible aussi.
     image: "/images/illustr-3_height.png"
     actions:
-    - label: Sign Up
+    - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
 - type: reviewsblock
   template: reviewsblock
