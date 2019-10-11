@@ -9,7 +9,7 @@ params:
     has_nav: true
     menu:
       actions:
-      - label: Sign Up
+      - label: DÉMARRER
         url: https://app.clickclickbankbank.com/sign-up
   footer:
     logo_img: "/images/ccbb_land_740.png"
