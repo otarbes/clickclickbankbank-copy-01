@@ -4,6 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Terms of Use"
 [menu.secondary]
+name = "Conditions d'utilisation"
 weight = 2
 
 +++
