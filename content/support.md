@@ -2,22 +2,21 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Help & Support"
+title = "Aide & Support"
 [menu.main]
-name = "Aide & Support"
 weight = 3
 
 +++
-### FAQs – Frequently Asked Questions
+### FAQ - Foire aux questions
 
-Here you can find a roundup of the most asked questions by users and the corresponding answers. We grouped the questions and answers in order to make it more comfortable to find the right one. Of course we are going to update this collection regularly.
+Vous trouverez ici un aperçu des questions les plus fréquemment posées par les utilisateurs et les réponses correspondantes. Nous avons regroupé les questions et les réponses afin qu'il soit plus facile de trouver la bonne. Bien sûr, nous mettrons cette liste à jour régulièrement.
 
-[Go to the FAQs](/faq)
+[Voir la FAQ](/faq)
 
-### Support Ticket
+### Ticket de support
 
-Before opening a support ticket please be so kind and go through our FAQs which usually answer most of the questions.
+Avant d'ouvrir un ticket, merci de consulter notre FAQ qui répond généralement à la plupart des questions.
 
-In case your issue couldn't be solved after this, feel free to contact us and we're going to find a solution for you!
+Au cas où votre problème ne pourrait pas être résolu après cela, n'hésitez pas à nous contacter et nous trouverons une solution pour vous !
 
-Just click on the green '?' on the bottom right of the screen and create your ticket.
+Pôur cela, il vous suffit de cliquer sur le '?' vert en bas à droite de l'écran et de créer votre ticket.
