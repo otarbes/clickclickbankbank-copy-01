@@ -15,9 +15,9 @@ params:
     logo_img: "/images/ccbb_land_740.png"
     tagline: Amazon Affiliate Links Monitoring Tool
     has_nav: true
-    nav_title: Company
+    nav_title: À Propos
     has_social: true
-    social_title: Community
+    social_title: 'Aussi sur :'
     has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
