@@ -4,7 +4,7 @@ layout = "page"
 subtitle = "Recommandez ClickClickBankBank à votre audience et gagnez 30% de commission récurrente pour chaque nouveau client référé!"
 title = "Programme d’Affiliation"
 [menu.main]
-name = "Programme affiliés"
+name = "Affiliation"
 weight = 4
 [menu.secondary]
 weight = 1
