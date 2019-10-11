@@ -2,7 +2,7 @@
 draft = true
 img_path = ""
 layout = "page"
-subtitle = "Questions les plus fréquentes"
+subtitle = ""
 title = "FAQ"
 
 +++
