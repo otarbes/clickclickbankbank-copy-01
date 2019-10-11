@@ -243,4 +243,4 @@ Vous pouvez vous connecter à votre profil d'affilié ClickClickBankBank à tout
 
 ### À qui dois-je m'adresser pour toute question ou demande spéciale?
 
-Si vous avez une question spécifique ou une proposition de collaboration, n'hésitez pas à nous écrire directement à affiliates@clickclickbankbank.com
+Si vous avez une question spécifique ou une proposition de collaboration, n'hésitez pas à nous écrire directement à affiliates@clickclickbankbank.com.
