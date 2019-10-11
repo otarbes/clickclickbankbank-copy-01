@@ -135,7 +135,7 @@ Par ailleurs, si d'autres liens pour le même produit sont détectés, ils seron
 
 ### À quelle fréquence les liens sont-ils vérifiés?
 
-* Comme dirait [Chevallier & Laspalès](https://www.youtube.com/watch?v=ZyBF9gCHl2Y) : « C’est vous qui voyez ! ». Nous ne voulons pas vous forcer à scanner vos liens tous les 2, 7, ou 15 jours si vous ne le souhaitez pas, juste pour utiliser vos crédits. Le lancement d’un scan se fait manuellement, et les résultats disponibles en quelques minutes seulement.
+Comme dirait [Chevallier & Laspalès](https://www.youtube.com/watch?v=ZyBF9gCHl2Y) : « C’est vous qui voyez ! ». Nous ne voulons pas vous forcer à scanner vos liens tous les 2, 7, ou 15 jours si vous ne le souhaitez pas, juste pour utiliser vos crédits. Le lancement d’un scan se fait manuellement, et les résultats disponibles en quelques minutes seulement.
 
 ***
 
