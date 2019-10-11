@@ -95,7 +95,7 @@ Sur le diagramme graphique vous trouverez un bilan de votre dernier scan :
 * Stock épuisé: Le pourcentage de produits Amazon en rupture de stock.
 * Erreur: Le pourcentage de produits retournés avec une erreur par l'API. Parfois l'API Amazon renvoie une erreur pour certains produits, si vous avez un pourcentage élevé merci de nous [contacter](mailto:support@clickclickbankbank.com).
 
-**RAPPORT DÉTAILLÉ**
+**RAPPORT DE SCAN**
 
 ![](/images/rapport_detail.png)
 
@@ -108,9 +108,34 @@ Sur le diagramme graphique vous trouverez un bilan de votre dernier scan :
 * Stock : Inventaire disponible comme indiqué dans l'API Amazon Product Advertising.
 * Lien Amazon : Lien affiché sur votre site web
 
-  ### À quelle fréquence les liens sont-ils vérifiés?
+**RAPPORT DE LIENS**
 
-  Comme dirait [Chevallier & Laspalès](https://www.youtube.com/watch?v=ZyBF9gCHl2Y) : « C’est vous qui voyez ! ». Nous ne voulons pas vous forcer à scanner vos liens tous les 2, 7, ou 15 jours si vous ne le souhaitez pas, juste pour utiliser vos crédits. Le lancement d’un scan se fait manuellement, et les résultats disponibles en quelques minutes seulement.
+Lorsque vous cliquez sur un lien depuis votre rapport de scan, vous pouvez avoir accès à des informations plus détaillés sur celui-ci.
+
+La première partie de ce rapport vous donnera les informations suivantes :
+
+* Nom du produit relié au lien
+* Son statut d'inventaire
+* Le stock disponible
+* Son ASIN
+
+![](/images/link report 1.png)
+
+Vous aurez aussi accès à des informations complémentaires pour être sûr de modifier toutes les pages et les liens concernés si besoin :
+
+* Date du scan
+* Domaine
+* Pages contenant le lien. Si plusieurs pages contiennent ce lien elles seront listées ici
+
+![](/images/link report 2.png)
+
+Par ailleurs, si d'autres liens pour le même produit sont détectés, ils seront listés dans cette dernière section du rapport.
+
+![](/images/link report 3.png)
+
+### À quelle fréquence les liens sont-ils vérifiés?
+
+* Comme dirait [Chevallier & Laspalès](https://www.youtube.com/watch?v=ZyBF9gCHl2Y) : « C’est vous qui voyez ! ». Nous ne voulons pas vous forcer à scanner vos liens tous les 2, 7, ou 15 jours si vous ne le souhaitez pas, juste pour utiliser vos crédits. Le lancement d’un scan se fait manuellement, et les résultats disponibles en quelques minutes seulement.
 
 ***
 
