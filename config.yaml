@@ -13,7 +13,7 @@ params:
         url: https://app.clickclickbankbank.com/sign-up
   footer:
     logo_img: "/images/ccbb_land_740.png"
-    tagline: Amazon Affiliate Links Monitoring Tool
+    tagline: Outil de vérification des liens d'affiliation Amazon
     has_nav: true
     nav_title: À Propos
     has_social: true
