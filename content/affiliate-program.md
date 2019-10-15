@@ -7,7 +7,7 @@ title = "Programme d’Affiliation"
 name = "Affiliation"
 weight = 4
 [menu.secondary]
-weight = 1
+weight = 2
 
 +++
 ### Vos bénéfices Affilié

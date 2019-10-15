@@ -5,7 +5,7 @@ subtitle = ""
 title = "Privacy & Cookie Policy"
 [menu.secondary]
 name = "Politique des données personnelles"
-weight = 3
+weight = 4
 
 +++
 **Privacy Policy of clickclickbankbank.com**

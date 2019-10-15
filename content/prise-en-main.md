@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Prise en main"
+[menu.secondary]
+weight = 1
 
 +++
 ## Création de compte

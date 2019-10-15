@@ -5,7 +5,7 @@ subtitle = ""
 title = "Terms of Use"
 [menu.secondary]
 name = "Conditions d'utilisation"
-weight = 2
+weight = 3
 
 +++
 **Terms and Conditions of clickclickbankbank.com**
