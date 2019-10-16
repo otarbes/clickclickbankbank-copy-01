@@ -24,10 +24,10 @@ fields:
   config:
     required: true
 pages:
+- content/affiliate-program.md
 - content/support.md
 - content/prise-en-main.md
 - content/faq.md
-- content/affiliate-program.md
 - content/privacy-cookie-policy.md
 - content/terms-of-use.md
 - content/style-guide.md
