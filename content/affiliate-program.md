@@ -18,4 +18,4 @@ weight = 2
 * Les paiements sont disponibles après avoir passé le montant minimum de 50$ en commission.
 * Réception des paiements via PayPal
 
-[**Inscription**](http://affiliates.clickclickbankbank.com)
+[**Inscription au programme d'affilié ClickClickBankBank**](http://affiliates.clickclickbankbank.com)
