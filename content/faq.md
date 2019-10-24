@@ -84,7 +84,7 @@ Une fois votre scan terminé, vous aurez accès à plusieurs rapports.
 ![](/images/rapport.png)
 
 * URLs scannées : C'est le nombre d'URL que nous avons trouvées. Dépendant de votre structure technique de site, cela peut correspondre à votre nombre de pages ou non.
-* Total produits : Le nombre de produits Amazon scanné.
+* Total produits : Le nombre de produits Amazon scannés.
 * Total des liens : Le nombre de liens d'affiliation Amazon scannés.
 * Total des liens uniques : Le nombre de liens d'affiliation Amazon dédupliqués, une fois tous les doublons supprimés.
 
