@@ -25,9 +25,9 @@ fields:
     required: true
 pages:
 - content/affiliate-program.md
-- content/support.md
-- content/prise-en-main.md
-- content/faq.md
-- content/privacy-cookie-policy.md
-- content/terms-of-use.md
 - content/style-guide.md
+- content/terms-of-use.md
+- content/privacy-cookie-policy.md
+- content/support.md
+- content/faq.md
+- content/prise-en-main.md
