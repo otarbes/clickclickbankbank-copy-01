@@ -151,7 +151,7 @@ sections:
   section_id: call-to-action
   title: Prêt à faire plus de commissions ?
   component: cta_block.html
-  subtitle: Garantie satisfait ou remboursé pendant 7 jours
+  subtitle: Garantie 'satisfait ou remboursé' pendant 7 jours
   actions:
   - label: OUI !
     url: https://app.clickclickbankbank.com/sign-up
