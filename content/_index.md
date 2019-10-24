@@ -102,7 +102,7 @@ sections:
     price: "$25/mo"
     details: |-
       * Domaines illimités
-      * 60,000 liens Amazon
+      * 20,000 liens Amazon
       * Support 24/7
     highlight: false
     actions:
