@@ -31,7 +31,7 @@ sections:
     - label: Démarrer
       url: https://app.clickclickbankbank.com/sign-up
   - title: Données fiables
-    content: Contraitement à la majorité des autres outils, ClickClickBankBank utilise
+    content: Contrairement à la majorité des autres outils, ClickClickBankBank utilise
       le Product Advertising API d’Amazon pour récupérer les informations sur les
       produits dont vous faites la promotion. Si un de vos produits n’est plus disponible
       ou en rupture de stock, vous serez le premier informé.
