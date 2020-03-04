@@ -30,6 +30,6 @@ menu:
   - url: https://app.clickclickbankbank.com/sign-in
     name: "Accès \U0001F512"
     weight: 6
-  - url: https://app.clickclickbankbank.com/sign-up
+  - url: https://clickclickbankbank.com/
     name: "EN \U0001F451"
     weight: 5
