@@ -86,7 +86,7 @@ sections:
       * Support 24/7
     highlight: false
     actions:
-    - label: Démarrer
+    - label: Essayer
       url: https://app.clickclickbankbank.com/sign-up
   - title: Plus
     price: "$15/mo"
